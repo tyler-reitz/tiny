@@ -1,6 +1,7 @@
 # @tdreitz/tiny
 
 [![npm (scopeid)](https://img.shields.io/npm/v/@tdreitz/tiny.svg)](https://github.com/tyler-reitz/tiny)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@tdreitz/tiny@0.0.2.svg)](https://github.com/tyler-reitz/tiny)
 
 Removes all spaces from a string.
 
